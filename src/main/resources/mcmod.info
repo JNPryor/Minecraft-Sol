@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "SOL",
+  "name": "Minecraft Sol",
+  "description": "Expands Minecraft, with new content.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["FearCrossing"],
+  "credits": "The Forge and FML guys, for making the API",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
