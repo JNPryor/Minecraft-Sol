@@ -3,7 +3,7 @@
   "modid": "SOL",
   "name": "Minecraft Sol",
   "description": "Expands Minecraft, with new content.",
-  "version": "${version}",
+  "version": "In-Dev",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
